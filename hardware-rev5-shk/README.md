@@ -1,5 +1,7 @@
 # Flatbox rev5-shk
 
+![Flatbox Shiokenstar in Stacked Acrylic Case](hardware-rev5-shk/images/Flatbox-rev5-shk-acrylic.jpg)
+
 This is a fork of the flatbox rev5 with changes to button spacing to be closer to a "shiokenstar" layout, which basically just means it uses 30mm attack buttons and spacing closer to what you would see in a standard lever-based arcade controller.
 
 You can follow the instructions in the rev5 folder, just substitute in the relevant files here when ordering your pcb or printing your case.
